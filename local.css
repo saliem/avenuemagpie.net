@@ -1,0 +1,34 @@
+
+body {
+	
+	background-color:#fefefa;
+}
+
+.highlight {background-color:#ffffe0;}
+
+.raleway {
+	font-family: 'Raleway', sans-serif;
+}
+
+.dancing-script {
+	font-family: 'Dancing Script', cursive;
+}
+
+.clicker-script {
+	font-family: 'Clicker Script', cursive;
+}
+.kalam {
+	font-family: 'Kalam', cursive;
+}
+
+.petite-formal {
+	font-family: 'Petit Formal Script', cursive;
+}
+.crimson-text {
+	font-family: 'Crimson Text', serif;
+}
+
+
+.container {width:400px;}
+
+
